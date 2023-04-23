@@ -1,0 +1,34 @@
+{
+    "elevators": [
+        {
+            "elevator_id": "EL001",
+            "restricted_amount": 10,
+            "permission_level": 0
+        },
+        {
+            "elevator_id": "EL002",
+            "restricted_amount": 10,
+            "permission_level": 0
+        },
+        {
+            "elevator_id": "EL003",
+            "restricted_amount": 10,
+            "permission_level": 0
+        },
+        {
+            "elevator_id": "EL004",
+            "restricted_amount": 10,
+            "permission_level": 0
+        },
+        {
+            "elevator_id": "EL005",
+            "restricted_amount": 10,
+            "permission_level": 0
+        },
+        {
+            "elevator_id": "EL006",
+            "restricted_amount": 10,
+            "permission_level": 0
+        }
+    ]
+}
